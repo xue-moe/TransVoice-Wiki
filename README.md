@@ -3,7 +3,6 @@
 
 ## Voice Resource Project
 This project intends to provide as much actionable information about transvoice as possible, and act as a reference material.
-本项目旨在提供尽可能多的关于跨性别声音的可指南信息，并作为参考文件。
 
 Created 2022 03 09
 
